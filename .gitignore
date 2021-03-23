@@ -1,0 +1,10 @@
+*.o
+*.ui
+*.uo
+tigerc
+parser.output
+parser.sig
+parser.sml
+lexer.sml
+build/
+bin/
