@@ -1,7 +1,7 @@
 # Tiger compiler
 Implementation of [Appel's tiger language](https://www.cs.princeton.edu/~appel/modern/ml/) in Standard ML. Made as final project for Compilers subject in Computer Science at [National University of Rosario (UNR)](https://web.fceia.unr.edu.ar/es). Also contributed to this work Natalia Eyherabide ([@enati](https://github.com/enati)) and Alejo Rios ([@alejolcc](https://github.com/alejolcc)).
 
-Build for x86 architecture. It uses GCC compiler as linker.
+Built for x86 architecture. It uses GCC compiler as linker.
 
 ## Dependencies
 
